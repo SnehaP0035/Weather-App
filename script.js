@@ -1,3 +1,4 @@
+
 const userLocation = document.getElementById("userLocation"),
   converter = document.getElementById("converter"),
   weatherIcon = document.querySelector(".weatherIcon"),
@@ -13,3 +14,4 @@ const userLocation = document.getElementById("userLocation"),
   UVValue = document.getElementById("UVValue"),
   PValue = document.getElementById("PValue"),
   Forecast = document.querySelector(".Forecast");
+
